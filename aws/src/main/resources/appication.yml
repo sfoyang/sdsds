@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.us-east-1.amazonaws.com
+  accessKey: AKIARF3D5ANGAQFC7XU5
+  secretKey: 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
+  bucketName: ponga1
